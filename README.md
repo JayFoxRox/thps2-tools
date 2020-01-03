@@ -143,3 +143,7 @@ List of user created parks that are included with the game.
 * [List of all bruteforced filenames in THPS1 (PlayStation)](https://gist.github.com/iamgreaser/ee48ac4adb0a18fc8928eb8494703730)
 * [spidey-tools](https://github.com/krystalgamer/spidey-tools)
 
+
+## License
+
+The files in this repository may be used under MIT License (see LICENSE.md) unless noted otherwise in the respective file.
